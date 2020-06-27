@@ -1,0 +1,22 @@
+{
+  "name": "discord-d20",
+  "version": "1.0.0",
+  "description": "A 20 sided dice for Discord command.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saulo-arantes/discord-d20.git"
+  },
+  "author": "Saulo Arantes",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/saulo-arantes/discord-d20/issues"
+  },
+  "homepage": "https://github.com/saulo-arantes/discord-d20#readme"
+}
